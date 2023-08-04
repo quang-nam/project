@@ -1,0 +1,15 @@
+.container{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.social{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+.icon {
+    opacity: 0.6;
+    cursor: pointer;
+  }
